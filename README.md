@@ -12,9 +12,11 @@ It does the following transformations:
 This is merely an assistance tool; such a migration is still mostly a manual
 process.
 
-This repository is hosted [on
+This repository is currently hosted [on
 GitLab.com](https://gitlab.com/louis.jackman/convert-pelican-content-to-hugo).
-If you're seeing this on GitHub, you're on the official GitHub mirror. [Go to
-GitLab](https://gitlab.com/louis.jackman/convert-pelican-content-to-hugo) to
-contribute.
+Official mirrors exist on
+[SourceHut](https://git.sr.ht/~louisjackman/convert-pelican-content-to-hugo)
+and [GitHub](https://github.com/LouisJackman/convert-pelican-content-to-hugo).
+At the moment, GitLab is still the official hub for contributions such as PRs
+and issues.
 
